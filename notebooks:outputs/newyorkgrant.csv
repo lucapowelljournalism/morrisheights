@@ -1,0 +1,510 @@
+,Grant Amount,Award Date,Parent Company,Parent Headquarters State,Ownership Structure,CEO Pay,Award Type
+0,685100000,20200423,JetBlue Airways,New York,publicly traded,"$3,955,523",grant
+1,277653312,20200508,Northwell Health,New York,non-profit,$0,grant
+2,203180447,20200508,New York University,New York,non-profit,$0,grant
+3,156708592,20200508,Montefiore Medical Center,New York,non-profit,$0,grant
+4,152747325,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+5,143251512,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+6,140754861,20200508,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+7,137531543,20200508,Northwell Health,New York,non-profit,$0,grant
+8,131500615,20200508,Maimonides Medical Center,New York,non-profit,$0,grant
+9,118647057,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+10,111346403,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+11,108038388,20200508,New York University,New York,non-profit,$0,grant
+12,92120455,20200506,New York University,New York,non-profit,$0,grant
+13,91535710,20200508,Bronxcare Health System,New York,privately held,$0,grant
+14,91357434,20200508,Northwell Health,New York,non-profit,$0,grant
+15,89200836,20200508,Montefiore Medical Center,New York,non-profit,$0,grant
+16,86952151,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+17,86705276,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+18,83300041,20200508,Stony Brook University,New York,non-profit,$0,grant
+19,78931188,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+20,76926186,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+21,76138988,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+22,75862418,20200508,Jamaica Hospital Medical Center,New York,non-profit,$0,grant
+23,75340417,20200508,NuHealth - Nassau University Medical Center,New York,non-profit,$0,grant
+24,75309433,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+25,72958948,20200508,Montefiore Medical Center,New York,non-profit,$0,grant
+26,68397632,20200508,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+27,66453550,20200508,Northwell Health,New York,non-profit,$0,grant
+28,66414764,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+29,66309962,20200508,Brookdale Hospital Medical Center,New York,non-profit,$0,grant
+30,66231250,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+31,65283067,20200508,White Plains Hospital,New York,non-profit,$0,grant
+32,64596069,20200508,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+33,64048724,20200506,Memorial Sloan Kettering Cancer Center,New York,non-profit,$0,grant
+34,63732310,20200508,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+35,60843431,20200508,Southside Hospital,New York,non-profit,$0,grant
+36,59878471,20200508,Wyckoff Heights Medical Center,New York,non-profit,$0,grant
+37,54809930,20200508,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+38,52864813,20200508,Good Samaritan Hospital (NY),New York,non-profit,$0,grant
+39,51718227,20200508,Richmond University Medical Center,New York,non-profit,$0,grant
+40,49115384,20200508,Westchester Medical Center,New York,non-profit,$0,grant
+41,48482885,20200508,Flushing Hospital & Medical Center,New York,non-profit,$0,grant
+42,47024442,20200508,University Hospital of Brooklyn at SUNY Downstate Medical Center,New York,non-profit,$0,grant
+43,46958400,20200508,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+44,46953443,20200508,St. Barnabas Hospital,New York,non-profit,$0,grant
+45,46720663,20200508,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+46,45537948,20200506,New York City Health And Hospitals Corporation,New York,non-profit,$0,grant
+47,45212167,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+48,44828287,20200508,Montefiore Medical Center,New York,non-profit,$0,grant
+49,44597579,20200508,Huntington Hospital,New York,non-profit,$0,grant
+50,43813351,20200506,University Of Rochester,New York,non-profit,$0,grant
+51,42296604,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+52,42083162,20200508,St Johns Episcopal Hospital at South Shore,New York,non-profit,$0,grant
+53,41187495,20200508,St Francis Hospital - The Heart Center,New York,non-profit,$0,grant
+54,39900635,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+55,39262378,20200508,Good Samaritan Hospital (NY),New York,non-profit,$0,grant
+56,36893063,20200506,Montefiore Medical Center,New York,non-profit,$0,grant
+57,36591244,20200508,New York Community Hospital Of Brooklyn Inc,New York,privately held,$0,grant
+58,36164527,20200508,Montefiore Medical Center,New York,non-profit,$0,grant
+59,35200497,20200508,Brooklyn Hospital Center,New York,non-profit,$0,grant
+60,33812553,20200506,New York University,New York,non-profit,$0,grant
+61,33253535,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+62,33005252,20200508,Mercy Medical Center (NY),New York,non-profit,$0,grant
+63,32850519,20200508,St John'S Riverside Hospital,New York,non-profit,$0,grant
+64,32183293,20200506,Northwell Health,New York,non-profit,$0,grant
+65,30844021,20200508,Kingsbrook Jewish Medical Center,New York,non-profit,$0,grant
+66,29281202,20200506,Stony Brook University,New York,non-profit,$0,grant
+67,28539057,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+68,27970631,20200508,Montefiore Medical Center,New York,non-profit,$0,grant
+69,27961352,20200506,Northwell Health,New York,non-profit,$0,grant
+70,27638224,20200508,Orange Regional Medical Center,New York,non-profit,$0,grant
+71,27517019,20200508,NYC Health and Hospitals,New York,non-profit,$0,grant
+72,26275226,20200506,Kaleida Health,New York,privately held,$0,grant
+73,26095810,20200508,St Catherine Of Siena Medical Center,New York,non-profit,$0,grant
+74,25741448,20200508,Northwell Health,New York,non-profit,$0,grant
+75,24669957,20200506,Westchester County Health Care Corporation,New York,privately held,$0,grant
+76,24003213,20200508,Sisters Of Charity Hospital Of Buffalo New York,New York,privately held,$0,grant
+77,23529682,20200508,St Lukes Cornwall Hospital - Newburgh Campus,New York,non-profit,$0,grant
+78,22242252,20200506,New York University,New York,non-profit,$0,grant
+79,21941397,20200508,Saint Josephs Medical Center,New York,non-profit,$0,grant
+80,21783587,20200508,Interfaith Medical Center,New York,privately held,$0,grant
+81,21476241,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+82,21125982,20200508,Vassar Brothers Hospital,New York,privately held,$0,grant
+83,20639470,20200508,Strong Memorial Hospital,New York,non-profit,$0,grant
+84,20345755,20200506,Albany Medical Center Hospital,New York,non-profit,$0,grant
+85,20312952,20200508,Phelps Memorial Hospital Association,New York,privately held,$0,grant
+86,20305366,20200506,Suny Health Science Center At Syracuse,New York,non-profit,$0,grant
+87,19640036,20200508,John T Mather Memorial Hospital,New York,non-profit,$0,grant
+88,19502808,20200508,NewYork-Presbyterian,New York,non-profit,$0,grant
+89,19481752,20200506,New York Society For The Relief Of Ruptured & Crippled Maintaining,New York,non-profit,$0,grant
+90,19054940,20200506,Maimonides Medical Center,New York,non-profit,$0,grant
+91,18877091,20200508,Rochester General Hospital,New York,non-profit,$0,grant
+92,18381295,20200506,St Francis Hospital,New York,non-profit,$0,grant
+93,18320235,20200508,Memorial Sloan Kettering Cancer Center,New York,non-profit,$0,grant
+94,18302572,20200508,Peconic Bay Medical Center,New York,non-profit,$0,grant
+95,18287983,20200508,St Joseph Hospital (NY),New York,non-profit,$0,grant
+96,17225944,20200508,Albany Medical Center Hospital,New York,non-profit,$0,grant
+97,16626768,20200508,Glen Cove Hospital,New York,non-profit,$0,grant
+98,16295632,20200508,Northern Westchester Hospital,New York,non-profit,$0,grant
+99,15580690,20200508,Buffalo General Medical Center (FKA Buffalo General Hospital),New York,non-profit,$0,grant
+100,15555172,20200506,Northwell Health,New York,non-profit,$0,grant
+101,15174844,20200508,Montefiore Medical Center,New York,non-profit,$0,grant
+102,14810932,20200508,Millard Fillmore Suburban Hospital,New York,non-profit,$0,grant
+103,13383760,20200506,Northwell Health,New York,non-profit,$0,grant
+104,12509642,20200506,Good Samaritan Hospital (NY),New York,non-profit,$0,grant
+105,12502673,20200506,United Health Services Hospitals Inc,New York,privately held,$0,grant
+106,12162173,20200508,Golisano Childrens Hospital,New York,non-profit,$0,grant
+107,11906577,20200506,Vassar Brothers Hospital,New York,privately held,$0,grant
+108,11731850,20200508,St Charles Hospital,New York,non-profit,$0,grant
+109,11455061,20200506,Erie County Medical Center Corporation,New York,privately held,$0,grant
+110,11361718,20200506,South Nassau Communities Hospital,New York,privately held,$0,grant
+111,11300315,20200506,Orange Regional Medical Center,New York,non-profit,$0,grant
+112,11232869,20200506,Rochester General Hospital,New York,non-profit,$0,grant
+113,11181812,20200508,Burke Rehabilitation Hospital,New York,non-profit,$0,grant
+114,11040072,20200508,Mercy Hospital Of Buffalo,New York,non-profit,$0,grant
+115,10699633,20200508,ArchCare at Calvary Hospital - Bronx Campus,New York,non-profit,$0,grant
+116,10623282,20200508,St Peters Hospital,New York,non-profit,$0,grant
+117,9818054,20200506,North Shore Hematology Oncology Associates Pc,New York,privately held,$0,grant
+118,8876468,20200506,Southside Hospital,New York,non-profit,$0,grant
+119,8713096,20200506,Nassau Health Care Corporation,New York,privately held,$0,grant
+120,8628836,20200506,Jamaica Hospital,New York,non-profit,$0,grant
+121,8414133,20200506,NewYork-Presbyterian,New York,non-profit,$0,grant
+122,8177259,20200506,Huntington Hospital Association,New York,non-profit,$0,grant
+123,8109758,20200506,Crouse Health Hospital Inc,New York,privately held,$0,grant
+124,7688760,20200506,John T Mather Memorial Hospital,New York,non-profit,$0,grant
+125,7317550,20200506,Brooklyn Hospital Center,New York,non-profit,$0,grant
+126,7099902,20200506,Caremount Medical Pc,New York,privately held,$0,grant
+127,7047728,20200506,Saratoga Hospital,New York,non-profit,$0,grant
+128,6938176,20200506,Champlain Valley Physicians Hospital Medical Center,New York,privately held,$0,grant
+129,6842819,20200506,Good Samaritan Hospital Of Suffern,New York,privately held,$0,grant
+130,6372989,20200506,St Catherine Of Siena Medical Center,New York,non-profit,$0,grant
+131,6286325,20200506,Visiting Nurse Service Of New York Home Care Ii,New York,privately held,$0,grant
+132,6123773,20200506,Good Samaritan Hospital (IN),New York,non-profit,$0,grant
+133,5735976,20200506,Central Suffolk Hospital,New York,non-profit,$0,grant
+134,5729916,20200506,Crystal Run Healthcare Physicians Llp,New York,privately held,$0,grant
+135,5721587,20200506,Calvary Hospital Inc.,New York,privately held,$0,grant
+136,5502861,20200506,Faxton - St Lukes Healthcare,New York,non-profit,$0,grant
+137,5459945,20200506,Visiting Nurse Service Of New York Hospice Care,New York,privately held,$0,grant
+138,5349758,20200506,Ellis Hospital,New York,non-profit,$0,grant
+139,5301212,20200506,Unity Hospital Of Rochester,New York,non-profit,$0,grant
+140,5252574,20200506,Bronxcare Health System,New York,privately held,$0,grant
+141,5000303,20200506,Mercy Hospital Of Buffalo,New York,non-profit,$0,grant
+142,4891464,20200506,Glens Falls Hospital Inc,New York,privately held,$0,grant
+143,4638640,20200506,Brookdale Hospital Medical Center,New York,non-profit,$0,grant
+144,4541412,20200506,Phelps Memorial Hospital Association,New York,privately held,$0,grant
+145,4536973,20200506,Samaritan Medical Center,New York,non-profit,$0,grant
+146,4506042,20200506,Flushing Hospital & Medical Center,New York,non-profit,$0,grant
+147,4497629,20200506,St Charles Hospital Corp,New York,privately held,$0,grant
+148,4322447,20200506,Mercy Medical Center (NY),New York,non-profit,$0,grant
+149,4283465,20200506,St John'S Riverside Hospital,New York,non-profit,$0,grant
+150,4253413,20200506,Nursing Sisters Home Care,New York,privately held,$0,grant
+151,4246768,20200506,Kingsbrook Jewish Medical Center,New York,non-profit,$0,grant
+152,4093066,20200506,Richmond Medical Center,New York,non-profit,$0,grant
+153,4024874,20200506,Chs Physician Partners Pc,New York,privately held,$0,grant
+154,3959039,20200506,Northwell Health,New York,non-profit,$0,grant
+155,3950055,20200506,L Woerner Inc,New York,privately held,$0,grant
+156,3858614,20200506,Episcopal Health Services Inc,New York,privately held,$0,grant
+157,3819447,20200506,Northern Westchester Hospital Association,New York,privately held,$0,grant
+158,3732002,20200506,Good Samaritan Hospital (NE),New York,non-profit,$0,grant
+159,3674406,20200506,St Joseph'S Hospital Yonkers,New York,non-profit,$0,grant
+160,3652795,20200506,St. Barnabas Hospital,New York,non-profit,$0,grant
+161,3616659,20200506,Canton-Potsdam Hospital,New York,privately held,$0,grant
+162,3486048,20200506,New York Oncology Hematology Pc,New York,privately held,$0,grant
+163,3374722,20200506,Cayuga Medical Center At Ithaca,New York,non-profit,$0,grant
+164,3323904,20200506,Olean General Hospital,New York,non-profit,$0,grant
+165,3174309,20200506,New York Community Hospital Of Brooklyn Inc,New York,privately held,$0,grant
+166,3173670,20200506,The Winifred Masterson Burke Rehabilitation Hospital,New York,privately held,$0,grant
+167,3054079,20200506,Dewitt Rehabilitation And Nursing Center Inc,New York,privately held,$0,grant
+168,3052983,20200506,Interfaith Medical Center,New York,privately held,$0,grant
+169,3017860,20200506,Hematology-Oncology Associates Of Cny,New York,privately held,$0,grant
+170,2826539,20200506,Hospice Care Network,New York,privately held,$0,grant
+171,2811833,20200506,Columbia Memorial Hospital,New York,non-profit,$0,grant
+172,2766194,20200506,Wsnchs North,New York,privately held,$0,grant
+173,2731765,20200506,Boro Park Operating Co Llc,New York,privately held,$0,grant
+174,2726338,20200506,Putnam Hospital Center,New York,privately held,$0,grant
+175,2700538,20200506,Glen Cove Hospital,New York,non-profit,$0,grant
+176,2674147,20200506,Sisters Of Charity Hospital Of Buffalo New York,New York,privately held,$0,grant
+177,2671292,20200506,Medical Associates Of Englewood Pc,New York,privately held,$0,grant
+178,2658383,20200506,Wyckoff Heights Medical Center,New York,non-profit,$0,grant
+179,2656947,20200506,Stony Brook Internists,New York,privately held,$0,grant
+180,2528614,20200506,Northern Dutchess Hospital,New York,non-profit,$0,grant
+181,2422072,20200506,Albany Medical College,New York,non-profit,$0,grant
+182,2331353,20200506,Healthalliance Hospital Broadway Campus,New York,privately held,$0,grant
+183,2253514,20200506,The Rogosin Institute,New York,privately held,$0,grant
+184,2192133,20200506,Tcprnc,New York,privately held,$0,grant
+185,2189634,20200506,Catskill Regional Medical Center,New York,non-profit,$0,grant
+186,2177208,20200506,Avista Capital Partners,New York,privately held,$0,grant
+187,2166756,20200506,Geneva General Hospital Inc,New York,privately held,$0,grant
+188,2102287,20200506,Fox Rehabilitation Physical Therapy Services Llc,New York,privately held,$0,grant
+189,2072890,20200506,Adirondack Medical Center,New York,non-profit,$0,grant
+190,2048089,20200506,Nathan Littauer Hospital Association,New York,non-profit,$0,grant
+191,2018013,20200506,Professional Occupational & Physical Therapy Pllc,New York,privately held,$0,grant
+192,2000577,20200506,Seniorcare Emergency Medical Services Inc,New York,privately held,$0,grant
+193,1991405,20200506,Oswego Hospital,New York,non-profit,$0,grant
+194,1912082,20200506,WMCHealth Network,New York,privately held,$0,grant
+195,1871587,20200506,Niagara Falls Memorial Medical Center,New York,non-profit,$0,grant
+196,1859386,20200506,Hospice Buffalo,New York,privately held,$0,grant
+197,1846567,20200506,Kenmore Mercy Hospital,New York,non-profit,$0,grant
+198,1841998,20200506,Northwell Health,New York,non-profit,$0,grant
+199,1803048,20200506,Sight Medical Doctors Pllc,New York,privately held,$0,grant
+200,1797619,20200506,Visiting Nursing Association Of Western New York,New York,privately held,$0,grant
+201,1779836,20200506,Community Memorial Hospital,New York,non-profit,$0,grant
+202,1775154,20200506,Department Of Medicine Medical Serv Grp At Suny Hlth Sci Ctr Syr In,New York,non-profit,$0,grant
+203,1752475,20200506,Auburn Community Hospital,New York,non-profit,$0,grant
+204,1749260,20200506,Buffalo Medical Group,New York,privately held,$0,grant
+205,1725142,20200506,Parker Jewish Institute For Health Care And Rehabilitation,New York,privately held,$0,grant
+206,1706724,20200506,Cold Spring Acquisition Llc,New York,privately held,$0,grant
+207,1693362,20200506,150 Riverside Op Llc,New York,privately held,$0,grant
+208,1641397,20200506,Alice Hyde Medical Center,New York,non-profit,$0,grant
+209,1618348,20200506,Claxton-Hepburn Medical Center,New York,non-profit,$0,grant
+210,1611587,20200506,Northwell Health,New York,non-profit,$0,grant
+211,1603269,20200506,Slocum Dickson Medical Group Pllc,New York,privately held,$0,grant
+212,1601059,20200506,The Rosalind And Joseph Gurwin Jewish Geratric Center Of Long Island,New York,privately held,$0,grant
+213,1556068,20200506,Suffolk Restorative Therapy & Nursing,New York,privately held,$0,grant
+214,1524319,20200506,Rome Memorial Hospital,New York,non-profit,$0,grant
+215,1519287,20200506,Dry Harbor Hrf Inc,New York,privately held,$0,grant
+216,1510696,20200506,Jopal Bronx,New York,privately held,$0,grant
+217,1508346,20200506,Medstar Surgical & Breathing Equipment,New York,privately held,$0,grant
+218,1470140,20200506,WMCHealth Network,New York,privately held,$0,grant
+219,1440511,20200506,North American Partners In Anesthesia Llp,New York,privately held,$0,grant
+220,1432896,20200506,Kfg Operating Two,New York,privately held,$0,grant
+221,1415594,20200506,Shore View Acquisition I Llc,New York,privately held,$0,grant
+222,1336609,20200506,St. Anthony Community Hospital,New York,non-profit,$0,grant
+223,1335529,20200506,Haym Salomon Home For The Aged,New York,privately held,$0,grant
+224,1299765,20200506,Amsterdam Nursing Home Corporation (1992),New York,privately held,$0,grant
+225,1289051,20200506,Frederick Ferris Thompson Hospital,New York,non-profit,$0,grant
+226,1283337,20200506,Hospice Of New York,New York,privately held,$0,grant
+227,1262271,20200506,Newark Wayne Community Hospital,New York,non-profit,$0,grant
+228,1260898,20200506,Sheepshead Nursing And Rehabilitation Center Llc,New York,privately held,$0,grant
+229,1252818,20200506,Visiting Nurse Services In Westchester,New York,privately held,$0,grant
+230,1249544,20200506,Loretto Health And Rehabilitation Center,New York,privately held,$0,grant
+231,1247540,20200506,City Medical Of Upper East Side,New York,privately held,$0,grant
+232,1231495,20200506,Middletown Medical Pc,New York,privately held,$0,grant
+233,1226020,20200506,Sgrnc Llc,New York,privately held,$0,grant
+234,1224839,20200506,Hamilton Park Multicare,New York,privately held,$0,grant
+235,1218238,20200506,St James Operating Llc,New York,privately held,$0,grant
+236,1211883,20200506,Hudson Valley Hospice Inc.,New York,privately held,$0,grant
+237,1204191,20200506,Brookhaven Health Care Facility Llc,New York,privately held,$0,grant
+238,1199572,20200506,Carillon Nursing And Rehabilitation Center,New York,privately held,$0,grant
+239,1196302,20200506,Our Lady Of Consolation Care Center,New York,privately held,$0,grant
+240,1194888,20200506,Oneida Health Systems Inc,New York,privately held,$0,grant
+241,1192995,20200506,United Memorial Medical Center,New York,non-profit,$0,grant
+242,1192040,20200506,Hudson Headwaters Health Network,New York,privately held,$0,grant
+243,1160344,20200506,Hudson Valley Hematology Oncology Associates,New York,privately held,$0,grant
+244,1156543,20200506,Belair Care Center,New York,privately held,$0,grant
+245,1137519,20200506,North Shore-Lij Cardiovascular Medicine Pc,New York,privately held,$0,grant
+246,1133952,20200506,Ur Medicine Home Care,New York,privately held,$0,grant
+247,1127524,20200506,Doj Operations Associates Llc,New York,privately held,$0,grant
+248,1125346,20200506,Schweiger Dermatology Pllc,New York,privately held,$0,grant
+249,1119326,20200506,Eastern Niagara Hospital Inc,New York,privately held,$0,grant
+250,1111410,20200506,Advanced Radiology Services Pc,New York,privately held,$0,grant
+251,1109200,20200506,The Silvercrest Center For Nursing And Rehabilitation,New York,privately held,$0,grant
+252,1107664,20200506,Rheumatology Associates Of Li Llp,New York,privately held,$0,grant
+253,1102871,20200506,Premier Medical Group Of The Hudson Valley Pc,New York,privately held,$0,grant
+254,1101000,20200506,East Northport Residential Health Care Facility,New York,privately held,$0,grant
+255,1097330,20200506,Hackensack University Medical Group Pc,New York,privately held,$0,grant
+256,1097190,20200506,Abraham Operations Associates Llc,New York,privately held,$0,grant
+257,1096179,20200506,River Manor Corp.,New York,privately held,$0,grant
+258,1090706,20200506,Che Senior Psychological Services,New York,privately held,$0,grant
+259,1081293,20200506,Sv Operating Three Llc,New York,privately held,$0,grant
+260,1069035,20200506,Woodmere Rehabilitation And Health Care Center Inc,New York,privately held,$0,grant
+261,1064467,20200506,New York Queens Medicine And Surgery,New York,privately held,$0,grant
+262,1059045,20200506,Alliance Health Operations Llc,New York,privately held,$0,grant
+263,1055767,20200506,Refuah Health Center Inc,New York,privately held,$0,grant
+264,1055479,20200506,New York Gracie Square Hospital Inc,New York,privately held,$0,grant
+265,1048601,20200506,Prime Home Health Services,New York,privately held,$0,grant
+266,1048367,20200506,Constellation Home Care,New York,privately held,$0,grant
+267,1048238,20200506,St. Marks Brooklyn Associates,New York,privately held,$0,grant
+268,1044428,20200506,Atlantis Operating Llc,New York,privately held,$0,grant
+269,1039276,20200506,Mskcc Surgery Group,New York,privately held,$0,grant
+270,1038715,20200506,Hebrew Home For The Aged At Riverdale,New York,non-profit,$0,grant
+271,1037396,20200506,Rockville Operating Llc,New York,privately held,$0,grant
+272,1035527,20200506,Visiting Nurse Service And Hospice Of Suffolk Inc.,New York,privately held,$0,grant
+273,1033651,20200506,Palm Gardens Care Center Llc,New York,privately held,$0,grant
+274,1032484,20200506,Mount St. Marys Hospital Of Niagara Falls,New York,privately held,$0,grant
+275,1012261,20200506,Associated Medical Professionals Of Ny Pllc,New York,privately held,$0,grant
+276,1008133,20200506,Oasis Rehabilitation And Nursing,New York,privately held,$0,grant
+277,1005558,20200506,Excel At Woodbury For Rehabilitation And Nursing Llc,New York,privately held,$0,grant
+278,1001803,20200506,Carthage Area Hospital Inc,New York,privately held,$0,grant
+279,1001650,20200506,NewYork-Presbyterian,New York,non-profit,$0,grant
+280,998400,20200506,Fairview Nursing Care Center Inc,New York,privately held,$0,grant
+281,998398,20200506,Highland View Care Center Operating Co.,New York,privately held,$0,grant
+282,990711,20200506,Massapequa Center Llc,New York,privately held,$0,grant
+283,989112,20200506,Riverdale Snf Llc,New York,privately held,$0,grant
+284,988324,20200506,Wartburg Home Of The Evangelical Lutheran Church,New York,privately held,$0,grant
+285,986419,20200506,Horizon Medical Group Pc,New York,privately held,$0,grant
+286,982956,20200506,Hampton Nh Operating Llc,New York,privately held,$0,grant
+287,977781,20200506,South Shore Neurologic Associates,New York,privately held,$0,grant
+288,975353,20200506,Townhouse Operating Company Llc,New York,privately held,$0,grant
+289,970463,20200506,Dent Neurologic Group Llp,New York,privately held,$0,grant
+290,961383,20200506,Wyoming County,New York,non-profit,$0,grant
+291,960506,20200506,Forest Manor Care Center Inc,New York,privately held,$0,grant
+292,957435,20200506,Williamsburg Services Llc,New York,privately held,$0,grant
+293,953473,20200506,Harlem Center For Nursing And Rehabilitation Llc,New York,privately held,$0,grant
+294,950750,20200506,Healthalliance Marys Avenue Campus,New York,privately held,$0,grant
+295,939037,20200506,Cobble Hill Health Center Inc.,New York,privately held,$0,grant
+296,938059,20200506,East Rockaway Center Llc,New York,privately held,$0,grant
+297,931338,20200506,Kings Physician Services Pc,New York,privately held,$0,grant
+298,927906,20200506,Friedwald Center For Rehabilitation And Nursing,New York,privately held,$0,grant
+299,925994,20200506,County Of Orange,New York,non-profit,$0,grant
+300,923195,20200506,Vdrnc Llc,New York,privately held,$0,grant
+301,920985,20200506,Village Center For Care,New York,privately held,$0,grant
+302,916807,20200506,Kennedy Pavilion Rh Llc,New York,privately held,$0,grant
+303,915393,20200506,Hillside Manor Rehabilitation And Extended Care Center Llc,New York,privately held,$0,grant
+304,908381,20200506,Fulton Commons Care Center,New York,privately held,$0,grant
+305,906597,20200506,Oda Primary Health Care Network,New York,privately held,$0,grant
+306,900879,20200506,Meadowbrook Care Center,New York,privately held,$0,grant
+307,900680,20200506,Fsnr Snf Llc,New York,privately held,$0,grant
+308,898393,20200506,St Johns Health Care Corporation,New York,privately held,$0,grant
+309,894116,20200506,Paljr Llc,New York,privately held,$0,grant
+310,894043,20200506,Town Of Massena,New York,non-profit,$0,grant
+311,893981,20200506,Clifton Springs Sanitarium Co,New York,privately held,$0,grant
+312,891446,20200506,Treetops Rehabilitation & Care Center Llc,New York,privately held,$0,grant
+313,890006,20200506,Jewish Home Of Rochester,New York,non-profit,$0,grant
+314,888667,20200506,S&j Operational Llc,New York,privately held,$0,grant
+315,882077,20200506,Nicholas H Noyes Memorial Hospital,New York,non-profit,$0,grant
+316,868096,20200506,Highland Care Center,New York,privately held,$0,grant
+317,865207,20200506,Morningside Acquisition I Llc,New York,privately held,$0,grant
+318,851690,20200506,Rpci Oncology,New York,privately held,$0,grant
+319,843283,20200506,Cabrini Of Westchester,New York,non-profit,$0,grant
+320,842166,20200506,Sunharbor Acquisition I Llc,New York,privately held,$0,grant
+321,838674,20200506,Lewis County General Hospital,New York,non-profit,$0,grant
+322,835842,20200506,Oakwood Operating Co,New York,privately held,$0,grant
+323,822824,20200506,Shorefront Operating Llc,New York,privately held,$0,grant
+324,820948,20200506,Community Healthcare Network Inc,New York,privately held,$0,grant
+325,819269,20200506,Bronx Medical Practice P.C.,New York,privately held,$0,grant
+326,816312,20200506,Advantagecare Physicians Pc,New York,privately held,$0,grant
+327,815855,20200506,Elizabethtown Community Hospital,New York,non-profit,$0,grant
+328,815458,20200506,Mskcc Radiology Group,New York,privately held,$0,grant
+329,802608,20200506,Somers Operating Llc,New York,privately held,$0,grant
+330,800050,20200506,Hematology Oncology Associates Of Brooklyn,New York,privately held,$0,grant
+331,798158,20200506,Hhh Acquisition Llc,New York,privately held,$0,grant
+332,796333,20200506,Cblpath,New York,privately held,$0,grant
+333,794383,20200506,Ivyrehab Physical Therapy Pllc,New York,privately held,$0,grant
+334,793292,20200506,Cdx Diagnostics Inc,New York,privately held,$0,grant
+335,782419,20200506,The Westchester Medical Practice Pc,New York,privately held,$0,grant
+336,779710,20200506,Eastern Long Island Hospital Assoc Inc,New York,privately held,$0,grant
+337,776767,20200506,Mobile Life Support Services Inc,New York,privately held,$0,grant
+338,775964,20200506,Great Lakes Physician Pc,New York,privately held,$0,grant
+339,774670,20200506,Chapin Acquisition I Llc,New York,privately held,$0,grant
+340,773407,20200506,Hollis Operating Co,New York,privately held,$0,grant
+341,771884,20200506,Kfg Operating I,New York,privately held,$0,grant
+342,767247,20200506,New York Rehabilitation Care Management Llc,New York,privately held,$0,grant
+343,765525,20200506,Open Door Family Medical Center Inc,New York,privately held,$0,grant
+344,763458,20200506,Ncrnc Llc,New York,privately held,$0,grant
+345,762049,20200506,University Physicians,New York,privately held,$0,grant
+346,761772,20200506,Southwest Suffolk Medical,New York,privately held,$0,grant
+347,760856,20200506,Apex Laboratory,New York,privately held,$0,grant
+348,757237,20200506,Familycare Medical Group Pc,New York,privately held,$0,grant
+349,748904,20200506,Morris Heights Health Center,New York,privately held,$0,grant
+350,746189,20200506,Cgsr Inc,New York,privately held,$0,grant
+351,742304,20200506,Long Island Care Center Inc,New York,privately held,$0,grant
+352,741476,20200506,Ditmas Park Rehabilitation & Care Center Llc,New York,privately held,$0,grant
+353,736867,20200506,Concourse Rehab & Nursing Ctr Inc,New York,privately held,$0,grant
+354,736851,20200506,Vohra Wound Physicians Of Ny,New York,privately held,$0,grant
+355,733715,20200506,Wesley Health Care Center,New York,privately held,$0,grant
+356,722385,20200506,Nursing Care Center At Medford Inc,New York,privately held,$0,grant
+357,721147,20200506,Richmond County Ambulance Service Inc,New York,privately held,$0,grant
+358,717353,20200506,Prospect Acquisition I Llc,New York,privately held,$0,grant
+359,717139,20200506,Cnh Operating Llc,New York,privately held,$0,grant
+360,716852,20200506,Regeis Care Center,New York,privately held,$0,grant
+361,716340,20200506,Wartburg Receiver Llc,New York,privately held,$0,grant
+362,714656,20200506,North Sea Associates Llc,New York,privately held,$0,grant
+363,710692,20200506,L&a Operational Llc,New York,privately held,$0,grant
+364,702941,20200506,The Memorial Hospital Of William F And Gertrude F Jones Inc,New York,non-profit,$0,grant
+365,697759,20200506,Glengariff Operating Llc,New York,privately held,$0,grant
+366,695841,20200506,Sea Crest Acquisition I,New York,privately held,$0,grant
+367,695011,20200506,Eye Care For The Adirondacks Associates In Ophthalmology,New York,privately held,$0,grant
+368,693804,20200506,Syracuse Orthopedic Specialists,New York,privately held,$0,grant
+369,691823,20200506,Empire City Laboratories,New York,privately held,$0,grant
+370,691046,20200506,Western New York Medical Practice Pc,New York,privately held,$0,grant
+371,690924,20200506,Chenango Memorial Hospital,New York,privately held,$0,grant
+372,690713,20200506,St. Camillus Residential Health Care Facility,New York,privately held,$0,grant
+373,690522,20200506,Orthopedics Ny,New York,privately held,$0,grant
+374,689968,20200506,United Medical Associates Pc,New York,privately held,$0,grant
+375,689804,20200506,Lawrence Medical Associates Pc,New York,privately held,$0,grant
+376,685155,20200506,The Long Island Home,New York,privately held,$0,grant
+377,684203,20200506,Brookhaven Rehabilitation And Health Care Center Llc,New York,privately held,$0,grant
+378,683772,20200506,Arthritis Health Associates Pllc,New York,privately held,$0,grant
+379,683087,20200506,Mount Sinai Medical Center (NY),New York,non-profit,$0,grant
+380,679897,20200506,Emergency Ambulance Service Inc,New York,privately held,$0,grant
+381,679601,20200506,Sbnh Acquisition Llc,New York,privately held,$0,grant
+382,678022,20200506,Lenco Diagnostic Laboratories Inc,New York,privately held,$0,grant
+383,677750,20200506,Grandell Rehab & Nursing Ctr Inc,New York,privately held,$0,grant
+384,677745,20200506,Park Avenue Operating Company Llc,New York,privately held,$0,grant
+385,677695,20200506,Hospice Care In Westchester And Putnam Inc,New York,privately held,$0,grant
+386,673889,20200506,Nassau Operating Company Llc,New York,privately held,$0,grant
+387,670400,20200506,Park Manor Acquisition Ii Llc,New York,privately held,$0,grant
+388,665680,20200506,Clearview Operating Co. Llc,New York,privately held,$0,grant
+389,664954,20200506,Stony Brook Radiology,New York,privately held,$0,grant
+390,664462,20200506,Buffalo Wheelchair,New York,privately held,$0,grant
+391,662668,20200506,Hudson Home Health Care Inc,New York,privately held,$0,grant
+392,661542,20200506,Ghvhs Medical Group Pc,New York,privately held,$0,grant
+393,660719,20200506,Hudson View Care Center Inc.,New York,privately held,$0,grant
+394,653392,20200506,Smithtown Health Care Management,New York,privately held,$0,grant
+395,648447,20200506,Centerlight Certified Home Health Agency,New York,privately held,$0,grant
+396,647840,20200506,United Odd Fellow And Rebekah Home,New York,privately held,$0,grant
+397,647086,20200506,Orthopedic Assoc Of Dutchess County P C,New York,privately held,$0,grant
+398,646933,20200506,Community Memorial Hospital,New York,non-profit,$0,grant
+399,643775,20200506,Bronx Center For Rehabilitation And Health Care,New York,privately held,$0,grant
+400,637473,20200506,Elmhurst Care Center,New York,privately held,$0,grant
+401,637174,20200506,Hospice Of Orange & Sullivan Counties,New York,privately held,$0,grant
+402,636519,20200506,Sky View Rehabilitation Health Care,New York,privately held,$0,grant
+403,636067,20200506,K & H Medical Pllc,New York,privately held,$0,grant
+404,631849,20200506,Golden Hill Planning Corporation,New York,privately held,$0,grant
+405,631375,20200506,Beechwood Health Care Center Inc,New York,privately held,$0,grant
+406,629668,20200506,Brunswick Hospital Center Inc,New York,privately held,$0,grant
+407,626636,20200506,Excelcare Medical Associates Pa,New York,privately held,$0,grant
+408,623924,20200506,Bridgewater Center For Rehabilitation & Nursing Llc,New York,privately held,$0,grant
+409,623346,20200506,Mid-Hudson Ophthalmological Retina Consultants,New York,privately held,$0,grant
+410,620250,20200506,James M. Maisel Md Pllc,New York,privately held,$0,grant
+411,619770,20200506,Broome Oncology Llc,New York,privately held,$0,grant
+412,619768,20200506,Ramapo Manor Nursing Center Inc,New York,privately held,$0,grant
+413,619685,20200506,Staten Island Care Center,New York,privately held,$0,grant
+414,616535,20200506,Empress Ambulance Service Llc,New York,privately held,$0,grant
+415,610462,20200506,Brooks - Tlc Hospital System,New York,privately held,$0,grant
+416,609207,20200506,Ozone Acquisition,New York,privately held,$0,grant
+417,608661,20200506,Montclair Care Center Inc,New York,privately held,$0,grant
+418,604874,20200506,Sapphire Center For Rehabilitation And Nursing Of Central Queens Llc,New York,privately held,$0,grant
+419,601187,20200506,Absolut Center For Nursing And Rehabilitation At Aurora Park,New York,non-profit,$0,grant
+420,600363,20200506,Ozanam Hall Of Queens Nursing Home,New York,privately held,$0,grant
+421,599993,20200506,Barnwell Operations Associates Llc,New York,privately held,$0,grant
+422,597226,20200506,Stony Brook Surgical Associates University Faculty Practice Corporati,New York,privately held,$0,grant
+423,595817,20200506,Bainbridge Nursing And Rehabilitation Center,New York,privately held,$0,grant
+424,594906,20200506,Auburn Senior Services Inc,New York,privately held,$0,grant
+425,593629,20200506,Ezras Choilim Health Center Inc,New York,privately held,$0,grant
+426,586632,20200506,St. Patrick'S Home For The Aged And Infirm,New York,privately held,$0,grant
+427,584125,20200506,Little Falls Hospital,New York,non-profit,$0,grant
+428,579501,20200506,Wayne Center For Nursing And Rehabilitation,New York,privately held,$0,grant
+429,579206,20200506,Park Terrace Care Center Inc,New York,privately held,$0,grant
+430,578764,20200506,Autumn View Health Care Facility Llc,New York,privately held,$0,grant
+431,577924,20200506,Meeting House Lane Medical Practice Pc,New York,privately held,$0,grant
+432,577564,20200506,Northern Medical Group,New York,privately held,$0,grant
+433,573705,20200506,Surge Rehabilitation And Nursing Llc,New York,privately held,$0,grant
+434,572898,20200506,Newburgh Operations Llc,New York,privately held,$0,grant
+435,569894,20200506,Cliffside Nursing Home Inc,New York,privately held,$0,grant
+436,569812,20200506,St James Hospital,New York,non-profit,$0,grant
+437,569460,20200506,Bay Park Center For Nursing And Rehabilitation,New York,privately held,$0,grant
+438,562579,20200506,L&a Operations Llc,New York,privately held,$0,grant
+439,561196,20200506,Amber Court At Home Llc,New York,privately held,$0,grant
+440,558039,20200506,Sutton Park Center For Nursing & Rehabilitation Llc,New York,privately held,$0,grant
+441,556280,20200506,Northern Manor Multicare Center Inc,New York,privately held,$0,grant
+442,555003,20200506,Psychological Health Services Pc,New York,privately held,$0,grant
+443,552056,20200506,Agma Inc.,New York,privately held,$0,grant
+444,550688,20200506,Bronx Harbor Health Care Complex Inc,New York,privately held,$0,grant
+445,547702,20200506,Hudson River Healthcare Inc,New York,privately held,$0,grant
+446,545610,20200506,Fieldston Lodge Care Center,New York,privately held,$0,grant
+447,544379,20200506,Chinatown Cardiology,New York,privately held,$0,grant
+448,543280,20200506,Bassett Hospital Of Schoharie County,New York,non-profit,$0,grant
+449,541637,20200506,Clr Schenectady Llc,New York,privately held,$0,grant
+450,541239,20200506,Joseph P. Addabbo Family Health Center,New York,privately held,$0,grant
+451,540164,20200506,Bridge View Nursing Home,New York,privately held,$0,grant
+452,539564,20200506,Prospect Park Operating,New York,privately held,$0,grant
+453,539499,20200506,Orthopaedic Associates Of Manhasset Pc,New York,privately held,$0,grant
+454,539123,20200506,Vjj Holding Company Llc,New York,privately held,$0,grant
+455,538555,20200506,Golden Gate Rehabilitation & Health Care Center Llc,New York,privately held,$0,grant
+456,538247,20200506,Soldiers & Sailors Memorial Hospital,New York,privately held,$0,grant
+457,533465,20200506,North Shore-Lij Anesthesiology Pc,New York,privately held,$0,grant
+458,530769,20200506,Willoughby Rehabilitation And Health Care Center Llc,New York,privately held,$0,grant
+459,528572,20200506,East Side Oncology Associates Pllc,New York,privately held,$0,grant
+460,527767,20200506,Albany Troy Cataract & Laser Associates,New York,privately held,$0,grant
+461,526833,20200506,Northeast Orthopedics And Sports Medicine Pllc,New York,privately held,$0,grant
+462,520180,20200506,Buena Vida Corp,New York,privately held,$0,grant
+463,516749,20200506,North Shore Cardiac Imaging Pc,New York,privately held,$0,grant
+464,516247,20200506,Memorial Pathology Group,New York,privately held,$0,grant
+465,514914,20200506,King Street Home Inc,New York,privately held,$0,grant
+466,514559,20200506,Damian Family Care Centers,New York,privately held,$0,grant
+467,514021,20200506,Kingston Nh Operation Llc,New York,privately held,$0,grant
+468,511946,20200506,Forest View Nursing Home,New York,privately held,$0,grant
+469,509129,20200506,Progressive Emergency Physicians Pllc,New York,privately held,$0,grant
+470,501688,20200506,Union Plaza Nursing Home Inc,New York,privately held,$0,grant
+471,501072,20200506,Crest Transportation Services,New York,privately held,$0,grant
+472,500813,20200506,Central New York Cardiology,New York,privately held,$0,grant
+473,331985,20200506,Northwell Health,New York,non-profit,$0,grant
+474,202333,20200506,Whitney M. Young Health Center,New York,non-profit,$0,grant
+475,0,20200511,Trinity Place Holdings Inc.,New York,publicly traded,"$2,145,954",loan
+476,0,20200413,"Intellicheck, Inc.",New York,publicly traded,"$224,186",loan
+477,0,20200410,"Infinite Group, Inc.",New York,publicly traded,"$228,976",loan
+478,0,20200501,"Ideanomics, Inc.",New York,publicly traded,"$852,832",loan
+479,0,20200417,"P&F Industries, Inc.",New York,publicly traded,"$1,676,354",loan
+480,0,20200417,Trans World Entertainment Corporation,New York,publicly traded,"$1,528,718",loan
+481,0,20200424,Travelzoo,New York,publicly traded,"$482,000",loan
+482,0,20200415,"TSR, Inc.",New York,publicly traded,"$515,000",loan
+483,0,20200419,Janel Corporation,New York,publicly traded,"$234,649",loan
+484,0,20200409,Graham Corp.,New York,publicly traded,"$1,177,444",loan
+485,0,20200415,National Holdings Corporation,New York,publicly traded,"$2,789,333",loan
+486,0,20200427,"Repro Med Systems, Inc.",New York,publicly traded,"$1,800,185",loan
+487,0,20200503,"Eyenovia, Inc.",New York,publicly traded,"$1,247,138",loan
+488,0,20200413,Vaso Corporation,New York,publicly traded,"$407,476",loan
+489,0,20200423,"Enzo Biochem, Inc.",New York,publicly traded,"$1,476,672",loan
+490,0,20200511,Ipsidy Inc.,New York,publicly traded,"$437,917",loan
+491,0,20200423,JetBlue Airways,New York,publicly traded,"$3,955,523",loan
+492,0,20200415,Cinedigm Corp,New York,publicly traded,"$1,043,697",loan
+493,0,20200414,"Scientific Industries, Inc.",New York,publicly traded,"$198,300",loan
+494,0,20200423,"Xcel Brands, Inc.",New York,publicly traded,"$1,860,887",loan
+495,0,20200421,Vuzix Corporation,New York,publicly traded,"$731,250",loan
+496,0,20200421,"Servotronics, Inc.",New York,publicly traded,"$654,300",loan
+497,0,20200501,"XpresSpa Group, Inc.",New York,publicly traded,"$250,000",loan
+498,0,20200421,"AzurRx BioPharma, Inc.",New York,publicly traded,"$1,245,500",loan
+499,0,20200417,Sono-Tek Corp.,New York,publicly traded,"$171,960",loan
+500,0,20200501,Ark Restaurants Corp.,New York,publicly traded,"$1,144,156",loan
+501,0,20200410,Lindblad Expeditions Holdings Inc.,New York,publicly traded,"$1,657,858",loan
+502,0,20200412,"Frequency Electronics, Inc.",New York,publicly traded,"$522,475",loan
+503,0,20200410,"CPI Aerostructures, Inc.",New York,publicly traded,"$798,637",loan
+504,0,20200421,CVD Equipment Corporation,New York,publicly traded,"$347,843",loan
+505,0,20200420,"Napco Security Technologies, Inc.",New York,publicly traded,"$1,153,903",loan
+506,0,20200501,"22nd Century Group, Inc.",New York,publicly traded,"$1,007,291",loan
+507,0,20200410,"MISONIX, Inc.",New York,publicly traded,"$541,307",loan
+508,0,20200423,"Zedge, Inc.",New York,publicly traded,"$290,678",loan
